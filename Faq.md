@@ -15,9 +15,9 @@ order: 2
 5. [Completion & Certification](#5-completion--certification)
 6. [Discontinuation Policy](#6-discontinuation-policy)
 7. [ViBe Platform](#7-vibe-platform)
-8. [MERN Case Studies](#9-mern-case-studies)
-9. [Ejection Policy](#10-ejection-policy)
-10. [Self-Healing Endorsement Network - Viva/Peer Evaluation System(PES)](#11-self-healing-endorsement-network---vivapeer-evaluation-systempes)
+8. [MERN Case Studies](#8-mern-case-studies)
+9. [Ejection Policy](#9-ejection-policy)
+10. [Self-Healing Endorsement Network - Viva/Peer Evaluation System(PES)](#10-self-healing-endorsement-network---vivapeer-evaluation-systempes)
 
 ---
 
